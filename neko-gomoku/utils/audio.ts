@@ -6,7 +6,7 @@
 const KEYBOARD_URL = 'https://raw.githubusercontent.com/ribbaty/neko-gomoku/927d49952fd431641ecf6df1f668aa7c64b0695c/jianpan.mp3'; 
 
 // 2. Victory/Meow Sound URL
-const VICTORY_URL = 'https://raw.githubusercontent.com/ribbaty/neko-gomoku/blob/b03637a0f999b29e21122188edef1237a14332a3/miao.mp3';
+const VICTORY_URL = 'https://raw.githubusercontent.com/ribbaty/neko-gomoku/1d77a598c44a84991082a2b953a1b8b82f5a76c9/miao.mp3';
 
 // =========================================================================
 
