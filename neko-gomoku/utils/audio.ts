@@ -3,7 +3,7 @@
 // =========================================================================
 
 // 1. Keyboard/Click Sound URL
-const KEYBOARD_URL = 'https://raw.githubusercontent.com/ribbaty/Cat-s-Paw-Chess/6a8a96120a54dbf1e6acbac7bd5152dfdb18f358/jianpan.mp3'; 
+const KEYBOARD_URL = 'https://raw.githubusercontent.com/ribbaty/neko-gomoku/927d49952fd431641ecf6df1f668aa7c64b0695c/jianpan.mp3'; 
 
 // 2. Victory/Meow Sound URL
 const VICTORY_URL = 'https://raw.githubusercontent.com/ribbaty/Cat-s-Paw-Chess/6a8a96120a54dbf1e6acbac7bd5152dfdb18f358/miao.mp3';
