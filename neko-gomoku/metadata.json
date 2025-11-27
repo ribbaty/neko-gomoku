@@ -1,0 +1,5 @@
+{
+  "name": "Neko Gomoku",
+  "description": "A minimalist and cute variation of Connect Seven where players place tetris-like cat blocks. Features Black Cat vs White Cat gameplay with AI and PvP modes.",
+  "requestFramePermissions": []
+}
